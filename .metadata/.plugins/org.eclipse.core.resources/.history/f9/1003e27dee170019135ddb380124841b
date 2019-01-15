@@ -1,0 +1,5 @@
+package com.cg.rest.restservice.entity;
+
+public class Employee {
+
+}

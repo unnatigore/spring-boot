@@ -1,0 +1,5 @@
+package com.cg.rest.restservice.resource;
+
+public class EmployeeResource {
+
+}

@@ -1,0 +1,5 @@
+package com.cg.rest.restservice.repository;
+
+public interface EmployeeRepository extends Jpa{
+
+}
